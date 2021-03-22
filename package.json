@@ -13,6 +13,7 @@
     "@nuxt/typescript-runtime": "^0.4.10",
     "@nuxtjs/axios": "^5.11.0",
     "nuxt": "^2.13.0",
+    "portal-vue": "^2.1.7",
     "vee-validate": "^3.4.5"
   },
   "devDependencies": {
